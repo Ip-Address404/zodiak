@@ -7,7 +7,7 @@ $ pkg install git
 
 $ pip install requests 
 
-$ git clone https://github.com/Mr-Thirteen-13/zodiak 
+$ git clone https://github.com/Ip-Addres404/zodiak 
 
 $ cd zodiak 
 
